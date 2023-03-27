@@ -1,4 +1,4 @@
-# PhoneGap Plugin BarcodeScanner
+# Cordova Plugin BarcodeScanner (Complie() Gradle problem Fix)
 ================================
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
@@ -11,7 +11,7 @@ Follows the [Cordova Plugin spec](https://cordova.apache.org/docs/en/latest/plug
 
 It is also possible to install via repo url directly ( unstable )
 
-    phonegap plugin add https://github.com/henrique-gerhardt/phonegap-plugin-barcodescanner.git --nofetch
+    cordova plugin add https://github.com/henrique-gerhardt/phonegap-plugin-barcodescanner.git --nofetch
 
 Optional variables:
 This plugin requires the Android support library v4. The minimum version is `24.1.0`. Default value is `27.+`.  Check out the latest version [here](https://developer.android.com/topic/libraries/support-library/revisions.html).
